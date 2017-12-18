@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="Arduino_Alexa_NeoPixel.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.Arduino_Alexa_NeoPixel.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
